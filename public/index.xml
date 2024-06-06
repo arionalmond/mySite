@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Github Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My New Github Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Mar 2024 13:25:55 -0500</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Whats this site about?</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Sat, 02 Mar 2024 13:25:55 -0500</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>I wanted to create a site that would be hosted on github, some blog stuff, and document the quickest way I&amp;rsquo;m currently seeing to get the job done.&#xA;Hugo is looking good so far. Going to roll with it for now. Should be sufficient for a static minimal cost site!&#xA;Going to leave the original date I spun this up and created this post, FYI.&#xA;Will update soon on future plans and what I&amp;rsquo;m also currently working on!</description>
+    </item>
+  </channel>
+</rss>
