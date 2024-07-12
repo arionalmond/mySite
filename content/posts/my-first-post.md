@@ -9,5 +9,3 @@ I wanted to create a site that would be hosted on github, some blog stuff, and d
 Hugo is looking good so far. Going to roll with it for now. Should be sufficient for a static minimal cost site!  
 Going to leave the original date I spun this up and created this post, FYI.  
 Will update soon on future plans and what I'm **also** currently working on!  
-  
-Visit the [Hugo](https://gohugo.io) website!  

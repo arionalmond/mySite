@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/arionalmond/Code/hugoQuickStart/quickstart",
+	"sourceRoot": "/Users/arionalmond/Code/github/mySite",
 	"sources": [
 		"ananke/css/main.css"
 	],
