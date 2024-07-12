@@ -1,7 +1,7 @@
 +++
 title = 'Setting the Bar on QA'
 date = 2024-03-02T13:25:55-05:00
-draft = true
+draft = false
 +++
 
 
