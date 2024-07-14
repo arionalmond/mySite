@@ -1,5 +1,5 @@
 +++
-title = 'Quick thoughts on QA'
+title = 'QA Follow up and notes'
 date = 2024-03-02T13:25:55-05:00
 draft = false
 +++

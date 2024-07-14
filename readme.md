@@ -1,5 +1,7 @@
 # mySite
 
+https://arionalmond.github.io/mySite/
+
 ## Replicate This
 
 Create a basic themed site with hugo
@@ -13,4 +15,5 @@ To make this a **little** more real world, lets say to author a new post we want
 
 Pull latest on main, create a branch, add your post to `content/posts` with a new `.md` file.  
 * Example: `NewPost.md`
+
 
