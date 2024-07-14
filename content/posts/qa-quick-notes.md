@@ -1,12 +1,12 @@
 +++
-title = 'Setting the Bar on QA'
+title = 'Quick thoughts on QA'
 date = 2024-03-02T13:25:55-05:00
 draft = false
 +++
 
 
 A friend of mine wanted to chat about a role as a software QA.  
-Like anything in the tech field one term can mean many things.  
+Like anything in the tech field one term or role can mean many things.  
 
 Wanted to get a couple notes down in draft, and expand on them when we meet to discuss the role in depth.  I'll start with somebackground for fun, then get into the notes.  
 
@@ -52,9 +52,4 @@ Generally, you now know that the feature is working, or haven't uncovered an iss
 
 **Note** you can be as in depth as you want, but depending on the product or company it may be the norm to only be testing on windows and android, or only chrome and mac OS. Knowing that things can run any and everywhere is great but IMO the best thing is to know the customer or product user and focus on the majority then work towards the edge case. 
 
-Regression
-Outage
-Notification
-CI/CD
-Metrics
-Error logs  
+Regression, Outage, Notification, CI/CD, Metrics, Error logs  
