@@ -1,31 +1,17 @@
 ---
-import About from '../components/Aboutsection.astro';
-import Features from '../components/Features.astro';
-import Hero from '../components/Hero.astro';
-import Testimonials from '../components/Testimonials.astro';
-import Layout from '../layouts/Layout.astro';
-import Pricing from '../components/Pricingsection.astro';
-import Faq from '../components/Faq.astro';
-import Clients from '../components/Clients.astro';
-import Team from '../components/Team.astro';
-import Contact from '../components/Contactsection.astro';
-import CTA from '../components/CTAsection.astro';
-import Blogsection from '../components/Blogsection.astro';
+// Welcome to Astro! Everything between these triple-dash code fences
+// is your "component frontmatter". It never runs in the browser.
+console.log('This runs in your terminal, not the browser!');
 ---
-
-<Layout
-  description="Play Astro is a free and open-source Astro template, built for startups, SaaS companies, apps, businesses, and more."
-  title="Free Astro Template and Starter for SaaS, Startup, and App Sites | Play Astro"
->
-  <Hero />
-  <Features />
-  <About />
-  <CTA />
-  <Pricing />
-  <Testimonials />
-  <Faq />
-  <Team />
-  <Blogsection />
-  <Contact />
-  <Clients />
-</Layout>
+<!-- Below is your "component template." It's just HTML, but with
+    some magic sprinkled in to help you build great templates. -->
+<html>
+  <body>
+    <h1>Hello, World!</h1>
+  </body>
+</html>
+<style>
+  h1 {
+    color: orange;
+  }
+</style>
